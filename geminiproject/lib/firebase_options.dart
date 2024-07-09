@@ -48,8 +48,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD1RJmFg6nMIfXJ8uR5wsIugahCc4-5szI',
-    appId: '1:43579719411:web:0c41617777e44faafb0186',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '43579719411',
     projectId: 'recipeapp-e0411',
     authDomain: 'recipeapp-e0411.firebaseapp.com',
@@ -57,16 +57,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC8m-DxNTD0NE4L_qR0--EsnkurjzAc7cY',
-    appId: '1:43579719411:android:2a9b11e7326c1c41fb0186',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '43579719411',
     projectId: 'recipeapp-e0411',
     storageBucket: 'recipeapp-e0411.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBPmQUH1yhSO3M3SnHDcuVlW6gONIprOnw',
-    appId: '1:43579719411:ios:7c8ab29c3681b451fb0186',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '43579719411',
     projectId: 'recipeapp-e0411',
     storageBucket: 'recipeapp-e0411.appspot.com',
